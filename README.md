@@ -1,4 +1,4 @@
-# IBM HR Analytics Employee Attrition & Performance
+<h1 align="center">HR Analytics Employee Attrition & Performance </h1>
 
 HR Analytics involves methodically gathering, analyzing, and interpreting Human Resource (HR) data to boost organizational efficiency and guide strategic decision-making. Through employing sophisticated analytical methods, HR Analytics converts raw HR data into practical insights, empowering organizations to refine their workforce management strategies and synchronize HR efforts with overarching business goals.
 
@@ -145,3 +145,7 @@ Additional Observations:
 - Address specific factors such as support for single employees, workload management for anniversary dates, and challenges faced by employees who live far or travel frequently.
 
 Implementing these strategies will help mitigate attrition rates and retain valuable talent, contributing to long-term organizational success.
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
