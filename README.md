@@ -146,6 +146,12 @@ Additional Observations:
 
 Implementing these strategies will help mitigate attrition rates and retain valuable talent, contributing to long-term organizational success.
 
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: [linkedin.com/in/smit98rana/](https://www.linkedin.com/in/smit98rana/)https://www.linkedin.com/in/smit98rana/
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
