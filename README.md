@@ -1,5 +1,19 @@
 <h1 align="center">HR Analytics Employee Attrition & Performance </h1>
 
+##### 
+<p align="center">
+  <img src="https://github.com/gentallman/HR_Attrition_Analytics/assets/78334851/b37e59f3-3c58-4e17-bb87-60640f892807" width="300">
+</p>
+
+####
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGU3MTE4OTUtNGM5MS00ZTAyLTk1MjAtZGVjZmIyZmFjNmU4IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
+  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
+</a>
+
+
+####
+
 HR Analytics involves methodically gathering, analyzing, and interpreting Human Resource (HR) data to boost organizational efficiency and guide strategic decision-making. Through employing sophisticated analytical methods, HR Analytics converts raw HR data into practical insights, empowering organizations to refine their workforce management strategies and synchronize HR efforts with overarching business goals.
 
 ![HR Dashboard](https://github.com/gentallman/HR_Attrition_Analytics/assets/78334851/2a6daa5b-f9cd-4944-bf53-7f295b4af6a0)
