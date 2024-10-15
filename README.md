@@ -7,10 +7,11 @@
 
 ####
 
+<p align="center">
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGU3MTE4OTUtNGM5MS00ZTAyLTk1MjAtZGVjZmIyZmFjNmU4IiwidCI6IjNmMTcwMmFmLTNmNGUtNDk1ZS04YzhiLTEzNzIxZjM5YjFiMCJ9">
-  <img src="https://github.com/gentallman/Retail-Supply-Chain-Operations-Management/assets/78334851/ed21a0ff-f400-4a4d-9a6c-80c76bf137e7" alt="Live Project" width="100">
+    <img src="https://github.com/user-attachments/assets/9f720f25-43d7-461f-9949-7d942aa9a766" alt="Live Project" width="120">
 </a>
-
+</p>
 
 ####
 
