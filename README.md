@@ -17,7 +17,9 @@
 
 HR Analytics involves methodically gathering, analyzing, and interpreting Human Resource (HR) data to boost organizational efficiency and guide strategic decision-making. Through employing sophisticated analytical methods, HR Analytics converts raw HR data into practical insights, empowering organizations to refine their workforce management strategies and synchronize HR efforts with overarching business goals.
 
-![HR Dashboard](https://github.com/gentallman/HR_Attrition_Analytics/assets/78334851/2a6daa5b-f9cd-4944-bf53-7f295b4af6a0)
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/c30b61c5-2f3a-4e8e-9e6b-4e47c5329265"  width="760" >
+</p>
 
 <h2> Call for HR Analytics </h2>
 
